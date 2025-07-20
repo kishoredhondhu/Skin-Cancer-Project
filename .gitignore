@@ -1,0 +1,13 @@
+# Python Folders
+backend/venv/
+backend/__pycache__/
+__pycache__/
+*.pyc
+
+# Node.js Folders
+skin-cancer-web-app/frontend/node_modules/
+skin-cancer-web-app/frontend/dist/
+npm-debug.log*
+
+# VS Code
+.vscode/
